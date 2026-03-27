@@ -1,1 +1,0 @@
-// TODO: implement search_archive endpoint
