@@ -12,3 +12,4 @@
 2. Implement API routes
 3. Add OpenAPI schema in /config
 4. Connect GPT Actions
+5. 
