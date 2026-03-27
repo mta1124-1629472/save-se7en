@@ -1,4 +1,4 @@
-# Se7enGPT Starter Package
+# Se7enGPT Starter Package 
 
 ## Structure
 - data/raw: Original archive files
